@@ -1,7 +1,6 @@
 
 ### Olá! Me chamo Miguel Juan 👋
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-juan-ab64ab25b)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/u/migubr150/boards)
 
 ![Myguell's GitHub stats](https://github-readme-stats.vercel.app/api?username=myguell-juan&show_icons=true&theme=highcontrast)
