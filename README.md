@@ -18,8 +18,10 @@
   <img aling="center" alt="mysql" width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img aling="center" alt="bootstrap" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img aling="center" alt="redhat" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
+  <img aling="center" alt="git" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 
 ##
 
-Principais trabalhos que desempenho se concentra na área de desenvolvimento de sites e aplicações web, análise de dados, 
+Principais trabalhos que desempenho se concentra na área de desenvolvimento de sites e aplicações web, análise de dados, pentest
+automoções e IA's
